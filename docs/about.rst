@@ -11,6 +11,12 @@ Technologies and components used
 * 3d-printing with regular PLA
 * Cost-effective servo motors and electronics
 
+Get the files
+-------------
+
+The files - 3d source, STL files for 3d-printing and code for the robot is available on `Github <https://github.com/goodlancer-org/valera>`_ . 
+Electronics components can be bought anywere, please see :doc:`supplies`.
+
 License
 -------
 
