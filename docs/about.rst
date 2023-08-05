@@ -20,4 +20,7 @@ Electronics components can be bought anywere, please see :doc:`supplies`.
 License
 -------
 
-Valera (both software and hardware) is licensed under the MIT license. This means that you are free to modify, distribute and republish the source code on the condition that the copyright notices are left intact. You are also free to incorporate PHPLucidFrame into any Commercial or closed source application.
+Valera (both software and hardware) is licensed under the MIT license. 
+This means that you are free to modify, distribute and republish the source code 
+on the condition that the copyright notices are left intact. 
+You are also free to incorporate Valera into any Commercial or closed source application.
