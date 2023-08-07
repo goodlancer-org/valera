@@ -13,6 +13,7 @@ List of components
 ------------------
 
 #. ODROID-N2L with 4GByte RAM, WF, 12V/2A power supply Asia/Korea round plug, 32GB-16GB eMMC Module N2L Linux - `<https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram>`_
+.. image:: Valera.jpg
 #. M1 MIPI-CSI Camera Kit - `<https://www.hardkernel.com/shop/m1-mipi-csi-camera-kit>`_
 #. Adafruit PCA9685 Servo controller - `<https://www.aliexpress.com/item/32466332558.html>`_
 #. screws, nuts, terminals - `<https://he.aliexpress.com/item/32801531985.html>`_
