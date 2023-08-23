@@ -4,6 +4,7 @@ Electric Curcuit
 On picture below you may see a block scheme depicting how Valera's electric curcuit is composed.
 
 .. image:: images/Block_Scheme.jpg
+
 That's how it looks in reality
 
 .. image:: images/Assembles.jpg
@@ -13,7 +14,7 @@ Assebling Instruction
 ---------------------
 Before we start:
 ~~~~~~~~~~~~~~~~
-.. image:: images/Deassebled.jpg
+.. image:: images/Deassembled.jpg
 
 
 Step 1
@@ -53,6 +54,7 @@ Plug in the USB wire to the screen through USB to micro USB L-shaped cable.
 Step 6
 ~~~~~~~~~~~~
 Plug the jack cable in the Odroid.
+
 .. image:: images/Assm_Step6.jpg
 
 Step 7
