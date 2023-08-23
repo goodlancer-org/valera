@@ -15,3 +15,4 @@ Contents
    :caption: 🚀 How to build
 
    supplies
+   Electric_Curcuit
