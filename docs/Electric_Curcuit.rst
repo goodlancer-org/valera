@@ -7,7 +7,7 @@ On picture below you may see a block scheme depicting how Valera's electric curc
 
 That's how it looks in reality
 
-.. image:: images/Assembles.jpg
+.. image:: images/Assembled.jpg
 
 
 Assebling Instruction
