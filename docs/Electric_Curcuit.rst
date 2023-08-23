@@ -10,7 +10,7 @@ Assebling Instruction
 ---------------------
 Before we start:
 ~~~~~~~~~~~~~~~~
-.. image:: images/Deassembled.jpg
+.. image:: images/Deassebled.jpg
 
 
 Step 1
