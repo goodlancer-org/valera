@@ -16,3 +16,4 @@ Contents
 
    supplies
    Electric_Curcuit
+   odroid_wifi_connect
