@@ -4,14 +4,14 @@ How to connect your odroid to wifi
 Before we start
 ~~~~~~~~~~~~~~~~~
 
-You will need following:
-*odroid
-*keyborad
-*hdmi cable
-*any screen
-*odroid power cable
+-You will need the following:
+-odroid
+-keyborad
+-hdmi cable
+-any screen
+-odroid power cable
 
-First you need to assmeble this premitive electric sheme:
+Then you need to assmeble this premitive electric sheme:
 Connect a keyboard to you odrdoid, connect your odroid to a screen through hdmi cable and plug the odroid to a socket using a power cable
 
 .. image:: images/Odroid_wifi_connect/Scheme.jpg
@@ -33,14 +33,14 @@ Open terminal using combination of keys Ctrl+Alt+T. You may also make it full sc
 3)Check linux version
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Type *lsb_release -a* to check your linux version. It should be ubuntu 22.04
+Type ``lsb_release -a`` to check your linux version. It should be ubuntu 22.04
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step3.jpg
 
 4)Check wifi status and interface
 ~~~~~~~~~~~~~~~~~~
 
-Now type *nmcli dev status* to check WiFi status, it should be disconnected.:: 
+Now type ``nmcli dev status`` to check WiFi status, it should be disconnected.
 Aslo check your interface type, you'll need it further. For me it's wlan0
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step4.jpg
@@ -48,16 +48,16 @@ Aslo check your interface type, you'll need it further. For me it's wlan0
 5)Check the list of availabel networks
 ~~~~~~~~~~~~~~~
 
-Type *iwlist wlan0 scan | grep ESSID* to check the list of available wifi networks. ::
-If your interface is different from wlan0 use *iwlist scan <your interface> scan | grep ESSID*
+Type ``iwlist wlan0 scan | grep ESSID`` to check the list of available wifi networks. 
+If your interface is different from wlan0 use ``iwlist scan <your interface> scan | grep ESSID``
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step5.jpg
 
 6)Connect to Wifi
 ~~~~~~~~~~~~~~~~~~~~
 
-Type *sudo nmcli dev wifi connect <your network name> password <your network password>*::
-For me network name is Lotas, and I'm not going to tell you the password :D::
+Type ``sudo nmcli dev wifi connect <your network name> password <your network password>``
+For me network name is Lotas, and I'm not going to tell you the password :D
 Then odroid will ask for user's password, default one is odroid
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step6.jpg
@@ -65,7 +65,7 @@ Then odroid will ask for user's password, default one is odroid
 7)Check if everything connected correctly
 ~~~~~~~~~~~~~~~~~~~~
 
-Now you can again type *nmcli dev status* to make sure you cennected successfully,::
+Now you can again type ``nmcli dev status`` to make sure you cennected successfully,
 it should say "connected" and display correct network name.
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step7.jpg
