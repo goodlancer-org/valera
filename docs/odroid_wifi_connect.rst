@@ -16,28 +16,28 @@ Connect a keyboard to you odrdoid, connect your odroid to a screen through hdmi 
 
 .. image:: images/Odroid_wifi_connect/Scheme.jpg
 
-1)Log into odroid
+Step 1. Log into odroid
 ~~~~~~~~~~~~~~~
 
 Now log into your odrdoid as a user, NOT as a guest
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step1.jpg
 
-2)Open terminal
+Step 2. Open terminal
 ~~~~~~~~~~~~~~~~~~~
 
-Open terminal using combination of keys Ctrl+Alt+T. You may also make it full screen by pressing Alt+F10
+Open terminal using combination of keys ``Ctrl+Alt+T``. Use ``F10`` to make it full screen if needed.
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step2.jpg
 
-3)Check linux version
+Step 3. Check linux version
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Type ``lsb_release -a`` to check your linux version. It should be ubuntu 22.04
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step3.jpg
 
-4)Check wifi status and interface
+Step 4. Check wifi status and interface
 ~~~~~~~~~~~~~~~~~~
 
 Now type ``nmcli dev status`` to check WiFi status, it should be disconnected.
@@ -45,7 +45,7 @@ Aslo check your interface type, you'll need it further. For me it's wlan0
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step4.jpg
 
-5)Check the list of availabel networks
+Step 5. Check the list of available networks
 ~~~~~~~~~~~~~~~
 
 Type ``iwlist wlan0 scan | grep ESSID`` to check the list of available wifi networks. 
@@ -53,7 +53,7 @@ If your interface is different from wlan0 use ``iwlist scan <your interface> sca
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step5.jpg
 
-6)Connect to Wifi
+Step 6. Connect to Wifi
 ~~~~~~~~~~~~~~~~~~~~
 
 Type ``sudo nmcli dev wifi connect <your network name> password <your network password>``
@@ -62,7 +62,7 @@ Then odroid will ask for user's password, default one is odroid
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step6.jpg
 
-7)Check if everything connected correctly
+Step 7. Check if everything connected correctly
 ~~~~~~~~~~~~~~~~~~~~
 
 Now you can again type ``nmcli dev status`` to make sure you cennected successfully,
