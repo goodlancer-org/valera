@@ -4,15 +4,16 @@ How to connect your odroid to wifi
 Before we start
 ~~~~~~~~~~~~~~~~~
 
--You will need the following:
--odroid
--keyborad
--hdmi cable
--any screen
--odroid power cable
+You will need the following:
 
-Then you need to assmeble this premitive electric sheme:
-Connect a keyboard to you odrdoid, connect your odroid to a screen through hdmi cable and plug the odroid to a socket using a power cable
+* single board computer Odroid
+* USB keyboard
+* HDMI cable
+* display or TV with HDMI input
+* Odroid power cable
+
+Then you need to assmeble this primitive electric sheme:
+Connect a keyboard to you Odroid, connect your Odroid to the display with hdmi cable and plug the odroid to a socket using a power cable
 
 .. image:: images/Odroid_wifi_connect/Scheme.jpg
 
