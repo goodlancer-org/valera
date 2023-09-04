@@ -1,6 +1,8 @@
 About Valera social robot
 =========================
 
+.. image:: images/Valera.jpg
+
 Valera is a social robot aimed to be the cheapest one able to communicate with people and emotionally react to them.
 Valera can act as a friend or a teacher. 
 

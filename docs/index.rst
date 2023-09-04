@@ -1,8 +1,6 @@
 Welcome to social robot's Valera documentation!
 ===============================================
 
-.. image:: images/Valera.jpg
-
 Contents
 --------
 
