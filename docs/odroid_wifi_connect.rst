@@ -57,8 +57,7 @@ Step 6. Connect to Wifi
 ~~~~~~~~~~~~~~~~~~~~
 
 Type ``sudo nmcli dev wifi connect <your network name> password <your network password>``
-For me network name is Lotas, and I'm not going to tell you the password :D
-Then odroid will ask for user's password, default one is odroid
+Then odroid will ask for user's password, for odroid board the default one is ``odroid``
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step6.jpg
 
