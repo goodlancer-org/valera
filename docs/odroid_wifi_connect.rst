@@ -70,7 +70,50 @@ it should say "connected" and display correct network name.
 
 .. image:: images/Odroid_wifi_connect/odroid_wifi_step7.jpg
 
+Step 8. Check internet connection
+~~~~~~~~~~~~~~~~~~~~
+
+Type ``ping -c 5 8.8.8.8`` to see if the computer is connected to the Internet. 8.8.8.8 is a Google server.
+
+.. image:: images/Odroid_wifi_connect/odroid_wifi_step8.jpg
+
+Step 9. Know your IP address
+~~~~~~~~~~~~~~~~~~~~
+
+Now that you have your Odroid connected to WiFi it can be accesses and managed from any 'normal' computer
+using ssh. SSH server should be running on the Odroid (and it is by default), so to get connected
+to Odroid one need to know:
+
+* login - odroid 
+* password - odroid 
+* IP address, which we can find by typing ``hostname -I``.
+
+.. image:: images/Odroid_wifi_connect/odroid_wifi_step9.jpg
+
+In this case on the picture the IP address is 192.168.1.226
+
+Step 10. Connect to Odroid with external terminal
+~~~~~~~~~~~~~~~~~~~~
+
+Now that you have your Odroid connected to WiFi it can be accesses and managed from any 'normal' computer
+using ssh. SSH server is already installed and running on Odroid, so let's install ssh client software
+onto Windows computer and connect it to the Odroid.
+
+Any SSH client can be used, the one we prefer is MobaXterm Home Edition (free) 
+- https://mobaxterm.mobatek.net/download.html
+
+Download it, install and setup ssh session as it's shown on a picture below:
+
+.. image:: images/Odroid_wifi_connect/odroid_wifi_step10.jpg
+
+Double click session name and try to connect to the Odroid:
+
+.. image:: images/Odroid_wifi_connect/odroid_wifi_step10-1.jpg
+
 Finish
 ~~~~~~~~~~~~~~~~~~~
 
-Congratulations!!! Now your odroid is connected to a wifi network and you may procceed to the next part! 
+Congratulations!!! If all the steps are performed correctly now you don't need to connect your
+Odroid device to the display or keyboard to be able to manage it. On power up the microcomputer
+will be connecting to the WiFi network and can be managed from any 'normal' computer in the same
+WiFi network and with ssh client software installed.
