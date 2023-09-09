@@ -19,3 +19,4 @@ Contents
    supplies
    Electric_Curcuit
    odroid_wifi_connect
+   docker_and_jupyter
