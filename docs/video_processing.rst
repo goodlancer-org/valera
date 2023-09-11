@@ -53,9 +53,11 @@ Step 4. Explore example code
 
 When in Jupyter open up 'work' folder to see the example workbook.
 
-.. image:: images/video_processing/jupyter.jpg
+.. image:: images/video_processing/jupyter_work_folder.jpg
 
 Double click ``video.ipynb`` file to open example code.
+
+.. image:: images/video_processing/video_notebook.jpg
 
 Finish
 ~~~~~~~~~~~~~~~~~~~
