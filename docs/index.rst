@@ -20,3 +20,4 @@ Contents
    Electric_Curcuit
    odroid_wifi_connect
    docker_and_jupyter
+   video_processing
