@@ -66,7 +66,7 @@ Run example code to see how the camera works:
 
 .. raw:: html
 
-   <video width="800" controls src="_images/jupyter_video.mp4" type="video/mp4" autoplay>
+   <video width="100%" controls src="_images/jupyter_video.mp4" type="video/mp4" autoplay>
    camera video embedded in Jupyter notebook
    </video>
 
