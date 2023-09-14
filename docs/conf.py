@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Valera'
-copyright = '2022-2023, Goodlancer'
+copyright = '2022-2023, Goodlancer, https://www.goodlancer.com/'
 author = 'Nefedovs family'
 
 release = '0.1'
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.video',
 ]
 
 intersphinx_mapping = {

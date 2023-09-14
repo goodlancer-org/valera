@@ -83,10 +83,6 @@ Run example code to see how the camera works:
    camera video embedded in Jupyter notebook
    </video>
 
-.. raw::  html
-
-    <video autoplay loop src="_images/jupyter_video.mp4" />
-
 Finish
 ~~~~~~~~~~~~~~~~~~~
 
