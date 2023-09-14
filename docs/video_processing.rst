@@ -61,12 +61,10 @@ Double click ``video.ipynb`` file to open example code.
 
 Run example code to see how the camera works:
 
-.. image:: images/video_processing/jupyter_video.mp4
-    :width: 1
 
 .. raw:: html
 
-   <video width="100%" controls src="_images/jupyter_video.mp4" type="video/mp4" autoplay>
+   <video width="100%" controls src="_static/jupyter_video.mp4" type="video/mp4" autoplay>
    camera video embedded in Jupyter notebook
    </video>
 
