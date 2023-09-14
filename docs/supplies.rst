@@ -42,5 +42,6 @@ List of components
 #. `S12311-1677319918 Rocker Switch With Light 4 Screw Black/Red <https://www.setel.com.tr/En//details/1006/1082/s12311-1677319918-4-vidali-genis-isikli-anahtar-siyahkirmizi-o-i>`_ 6.5$
 #. `Crimp Spade Terminal connector pack <https://www.aliexpress.com/item/1005003611683326.html>`_ 10.6$
 #. `Jumper wire dupont cable for DIY kit. female to female <https://www.aliexpress.com/item/4000203371860.html>`_ 0.5$
-#. TOTAL PRICE: 324$
+
+TOTAL PRICE: 324$
 
