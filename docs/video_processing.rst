@@ -62,10 +62,7 @@ Double click ``video.ipynb`` file to open example code.
 Run example code to see how the camera works:
 
 .. image:: images/video_processing/jupyter_video.mp4
-    :width: 600
-    :autoplay:
-    :loop:
-    :muted:
+    :width: 1
 
 .. raw:: html
 
