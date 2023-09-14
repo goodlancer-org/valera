@@ -48,7 +48,7 @@ The password for Jupyter is ``Valera``
 
 .. image:: images/video_processing/jupyter.jpg
 
-Step 4. Explore example code 
+Step 4. Explore and run example code 
 ~~~~~~~~~~~~~~~
 
 When in Jupyter open up 'work' folder to see the example workbook.
@@ -58,6 +58,12 @@ When in Jupyter open up 'work' folder to see the example workbook.
 Double click ``video.ipynb`` file to open example code.
 
 .. image:: images/video_processing/video_notebook.jpg
+
+Run example code to see how the camera works:
+
+.. raw:: html
+
+<video controls src="images/video_processing/jupyter_video.mp4"></video>
 
 Finish
 ~~~~~~~~~~~~~~~~~~~
