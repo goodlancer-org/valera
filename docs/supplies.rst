@@ -42,3 +42,19 @@ List of components
 #. S12311-1677319918 Rocker Switch With Light 4 Screw Black/Red - `<https://www.setel.com.tr/En//details/1006/1082/s12311-1677319918-4-vidali-genis-isikli-anahtar-siyahkirmizi-o-i>`_  
 #. Crimp Spade Terminal connector pack -  `<https://www.aliexpress.com/item/1005003611683326.html>`_ 
 #. Jumper wire dupont cable for DIY kit. female to female `<https://www.aliexpress.com/item/4000203371860.html>`_ 
+
+.. list-table:: Robot components
+   :widths: 10 25 50 25
+   :header-rows: 1
+    *   - Heading row 1, column, 1 N
+        - Heading row 1, column, 2 name
+        - Heading row 1, column, 3 shopping link
+        - Heading row 1, column, 4 price $
+    *   - Row 1, column 1, 1
+        - Row 2, column 2, ODROID-N2L with 4GByte RAM
+        - Row 1, column 3, `<https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`
+        - Row 1, column 4, 69 
+    *   - Row 2, column 1
+        - Row 2, column 2
+        - Row 2, column 3
+        - Row 2, column 4
