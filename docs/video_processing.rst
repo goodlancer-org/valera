@@ -71,6 +71,22 @@ Run example code to see how the camera works:
 
 .. video:: images/video_processing/jupyter_video.mp4
 
+.. figure:: images/video_processing/jupyter_video.mp4
+   :loop:
+   :controls:
+   :figwidth: 25%
+   :figclass: right
+
+.. raw:: html
+
+   <video width="800" controls src="_images/jupyter_video.mp4" type="video/mp4" autoplay>
+   camera video embedded in Jupyter notebook
+   </video>
+
+.. raw::  html
+
+    <video autoplay loop src="_images/jupyter_video.mp4" />
+
 Finish
 ~~~~~~~~~~~~~~~~~~~
 
