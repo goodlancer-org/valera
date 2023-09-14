@@ -61,9 +61,7 @@ Double click ``video.ipynb`` file to open example code.
 
 Run example code to see how the camera works:
 
-.. raw:: html
-    
-    <video controls src="images/video_processing/jupyter_video.mp4"></video>
+.. image:: images/video_processing/jupyter_video.mp4
 
 Finish
 ~~~~~~~~~~~~~~~~~~~
