@@ -63,6 +63,14 @@ Run example code to see how the camera works:
 
 .. image:: images/video_processing/jupyter_video.mp4
 
+.. video:: images/video_processing/jupyter_video.mp4
+    :width: 600
+    :autoplay:
+    :loop:
+    :muted:
+
+.. video:: images/video_processing/jupyter_video.mp4
+
 Finish
 ~~~~~~~~~~~~~~~~~~~
 
