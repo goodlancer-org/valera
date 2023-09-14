@@ -44,16 +44,17 @@ List of components
 #. Jumper wire dupont cable for DIY kit. female to female `<https://www.aliexpress.com/item/4000203371860.html>`_ 
 
 .. list-table:: Robot components
-   :widths: 10 25 50 25
-   :header-rows: 1
-    *   - Heading row 1, column, 1 N
-        - Heading row 1, column, 2 name
-        - Heading row 1, column, 3 shopping link
-        - Heading row 1, column, 4 price $
-    *   - Row 1, column 1, 1
-        - Row 2, column 2, ODROID-N2L with 4GByte RAM
-        - Row 1, column 3, `<https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`
-        - Row 1, column 4, 69 
+    :widths: 10 25 50 25
+    :header-rows: 1
+
+    *   - N
+        - name
+        - shopping link
+        - price $
+    *   - 1
+        - ODROID-N2L with 4GByte RAM
+        - `<https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`
+        - 69 
     *   - Row 2, column 1
         - Row 2, column 2
         - Row 2, column 3
