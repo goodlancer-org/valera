@@ -42,5 +42,5 @@ List of components
 #. `Crimp Spade Terminal connector pack <https://www.aliexpress.com/item/1005003611683326.html>`_ 10.6$
 #. `Jumper wire dupont cable for DIY kit. female to female <https://www.aliexpress.com/item/4000203371860.html>`_ 0.5$
 
-TOTAL PRICE: 373$
+TOTAL PRICE ESTIMATION : 373$
 
