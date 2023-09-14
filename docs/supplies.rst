@@ -14,7 +14,9 @@ List of components
 
 .. image:: images/BOM1.jpg
 
-#. ODROID-N2L with 4GByte RAM - `<https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>` 69$
+`Link text <link URL>`_
+
+#. `ODROID-N2L with 4GByte RAM <https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`_ 69$
 #. WiFi Module 5BK  - `<https://www.hardkernel.com/shop/wifi-module-5bk/>`8.9$
 #. 12V/2A power supply Asia/Korea round plug - `<https://www.hardkernel.com/shop/12v-2a-power-supply-asia-korea-round-plug/>`5.5$
 #. 16GB eMMC Module N2L Linux - `<https://www.hardkernel.com/shop/16gb-emmc-module-n2l-linux/>`13$
@@ -31,7 +33,7 @@ List of components
 #. ESP-LCD Display 800*480 ips rgb,8M PSRAM,16M flash - `<https://www.aliexpress.com/item/1005004788147691.html>`28.1$
 #. Speaker hk-5002 - `<https://a.aliexpress.com/_EwVoRaH>`6.7$
 #. Servo extension wires - `<https://www.aliexpress.com/item/4001293611208.html>`0.3$
-#. Camera extension wires 30 cm - `<https://www.aliexpress.com/item/1005001876824555.html>`1$_ 
+#. Camera extension wires 30 cm - `<https://www.aliexpress.com/item/1005001876824555.html>`1$
 #. Display power wires 2pin usb-B - `<https://www.aliexpress.com/item/1005005005072094.html>`1.6$
 #. LiPo Charger 3S XT-60 - `<https://www.aliexpress.com/item/1005003986195734.html>`7.6$
 #. DC power converter 12V to 5V 15A for motors - `<https://www.aliexpress.com/item/1005003324739838.html>`9.2$
@@ -42,6 +44,20 @@ List of components
 #. S12311-1677319918 Rocker Switch With Light 4 Screw Black/Red - `<https://www.setel.com.tr/En//details/1006/1082/s12311-1677319918-4-vidali-genis-isikli-anahtar-siyahkirmizi-o-i>`6.5$
 #. Crimp Spade Terminal connector pack -  `<https://www.aliexpress.com/item/1005003611683326.html>`10.6$
 #. Jumper wire dupont cable for DIY kit. female to female `<https://www.aliexpress.com/item/4000203371860.html>`0.5$
+
+
+.. list-table:: Robot components
+    :widths: 2 25 50 5
+    :header-rows: 1
+
+    *   - N
+        - name
+        - shopping link
+        - price $
+    *   - 1
+        - ODROID-N2L with 4GByte RAM
+        - `<https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`_
+        - 69 
 
 
 .. list-table:: Robot components
