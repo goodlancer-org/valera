@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Valera'
-copyright = '2022-2023, Goodlancer, https://www.goodlancer.com/'
+copyright = '2022-2023, Goodlancer by Nefedovs family, https://www.goodlancer.com/'
 author = 'Nefedovs family'
 
 release = '0.1'

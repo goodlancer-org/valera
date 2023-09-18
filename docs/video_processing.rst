@@ -61,12 +61,25 @@ Double click ``video.ipynb`` file to open example code.
 
 Run example code to see how the camera works:
 
-
 .. raw:: html
 
    <video width="100%" controls src="_static/jupyter_video.mp4" type="video/mp4" autoplay>
    camera video embedded in Jupyter notebook
    </video>
+
+The simpliest code to read images from the camera is as follows:
+
+.. code-block:: python
+
+   # Activate camera object
+   cap = cv2.VideoCapture(0)
+
+   # Take a picture
+   _, frame = cap.read()
+
+   # Convert the picture to bytes
+   _, frame = cv2.imencode('.png', frame)
+   frame = frame.tobytes()
 
 Finish
 ~~~~~~~~~~~~~~~~~~~
