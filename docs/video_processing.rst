@@ -81,6 +81,9 @@ The simpliest code to read images from the camera is as follows:
    _, frame = cv2.imencode('.png', frame)
    frame = frame.tobytes()
 
+   # Release the camera object
+   cap.release()
+
 Finish
 ~~~~~~~~~~~~~~~~~~~
 
