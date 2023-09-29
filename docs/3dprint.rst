@@ -33,6 +33,8 @@ Total weight of the Base parts is 485 g
 
 Total weight of the Stand parts is 80 g
 
+.. image:: images/3dprint/ValeraStand3d.png
+
 2 - Chest
 --------------------------------
 
@@ -45,6 +47,8 @@ Total weight of the Stand parts is 80 g
 
 Total weight of the Chest parts is 170 g
 
+.. image:: images/3dprint/ValeraChest3d.png
+
 3 - Head
 --------------------------------
 
@@ -52,6 +56,8 @@ Total weight of the Chest parts is 170 g
 * 3_Head_Mount - 10 g 
 
 Total weight of the Head parts is 55 g
+
+.. image:: images/3dprint/ValeraHead3d.png
 
 4 - UpperArm 
 --------------------------------
@@ -63,3 +69,8 @@ Total weight of the Head parts is 55 g
 * 4_UpperArm_Cap - 5 g * 2
 
 Total weight of the UpperArm parts is 100 g
+
+5 - ForeArm 
+--------------------------------
+
+* 5_Forearm_Main - 10 g * 2
