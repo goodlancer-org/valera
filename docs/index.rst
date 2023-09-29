@@ -17,6 +17,7 @@ Contents
    :caption: 🚀 How to build
 
    supplies
+   3dprint
    Electric_Curcuit
    odroid_wifi_connect
    docker_and_jupyter
