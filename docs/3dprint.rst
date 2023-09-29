@@ -22,7 +22,7 @@ Using fast printing with the speed 50g/hour total printing time will be 18 hours
 
 Total weight of the Base parts is 485 g 
 
-.. image:: images/edprint/ValeraBase3d.jpg
+.. image:: images/3dprint/ValeraBase3d.jpg
 
 1 - Stand
 --------------------------------
