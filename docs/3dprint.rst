@@ -13,6 +13,10 @@ The robot body consists of 5 main blocks:
 Total weight of filament needed for all the parts is about 900 g .
 Using fast printing with the speed 50g/hour total printing time will be 18 hours .
 
+Both STL files to print and source models for FreeCAD can be found 
+on `Github <https://github.com/goodlancer-org/valera>`_ in `STL` and `3d source` folder
+respectively.
+
 0 - Base
 --------------------------------
 
