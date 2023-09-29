@@ -2,6 +2,7 @@ Printing the parts
 =========================
 
 The robot body consists of 5 main blocks:
+
 * 0 - Base
 * 1 - Stand
 * 2 - Chest
