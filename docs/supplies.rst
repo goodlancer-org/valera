@@ -27,7 +27,7 @@ List of components
 #. `Servo tester <https://a.aliexpress.com/_mLtn8Ea>`_ $7
 #. `LiPo battery Gens ACE 3300mAh 3S XT60 <https://www.aliexpress.com/item/1005003720800196.html>`_ $37.9
 #. `Power wires XT60 female <https://www.aliexpress.com/item/1005005297368178.html>`_ $6
-#. `20 AWG wire <https://www.aliexpress.com/item/1005001876813940.html>`_ $3.7
+#. `20 AWG 2pins wire <https://www.aliexpress.com/item/1005001876813940.html>`_ $3.7
 #. `ESP-LCD Display 800*480 ips rgb,8M PSRAM,16M flash <https://www.aliexpress.com/item/1005004788147691.html>`_ $28.1
 #. `Speaker hk-5002 <https://a.aliexpress.com/_EwVoRaH>`_ $13.5
 #. `Servo extension wires 300mm FM <https://www.aliexpress.com/item/4001293611208.html>`_ $0.3 
