@@ -74,7 +74,11 @@ Total weight of the Head parts is 55 g
 
 Total weight of the UpperArm parts is 100 g
 
+.. image:: images/3dprint/ValeraUpperArm3d.png
+
 5 - ForeArm 
 --------------------------------
 
 * 5_Forearm_Main - 10 g * 2
+
+.. image:: images/3dprint/ValeraForearmMain3d.png
