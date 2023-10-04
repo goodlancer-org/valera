@@ -9,7 +9,7 @@ The robot body consists of 5 main blocks:
 * 4 - UpperArm
 * 5 - Forearm
 
-Total weight of filament needed for all the parts is about 1000 g .
+Total weight of filament needed for all the parts is about 900 g .
 Using fast printing with the speed 50g/hour total printing time will be 18 hours .
 
 Both STL files to print and source models for FreeCAD can be found 
@@ -24,9 +24,10 @@ respectively.
 * 1_Base_Door - 20 g 
 * 1_Base_Switch - 5 g 
 * 2_Chest_joint_Cap -  5 g
+* 2_Chest_joint_Big - 5 g
 * 2_Chest_Motor_Cap - 10 g
 
-Total weight of the Base parts is 555 g 
+Total weight of the Base parts is 560 g 
 
 .. image:: images/3dprint/ValeraBase3d.png
 
