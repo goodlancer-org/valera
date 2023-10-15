@@ -2,6 +2,7 @@ Welcome to social robot's Valera documentation!
 ===============================================
 
 .. image:: images/Valera.jpg
+  :width: 400
 
 Contents
 --------
