@@ -5,13 +5,11 @@ Valera is a social robot, which means that the goal is to make robot to be a par
 keep some human knowledge and human culture, to be able to learn and analyse,
 to be able to communicate like people do and to share.
 
-The second goal was to make the robot cheap, affordable and easy to build, event by kids and at home.
+The second goal was to make the robot cheap, affordable and easy to build, even by kids and at home.
 
 .. image:: images/Valera.jpg
   :width: 400
 
-Contents
---------
 
 .. toctree::
    :maxdepth: 2

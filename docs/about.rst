@@ -1,4 +1,4 @@
-About Valera social robot
+About Valera and social robots
 =========================
 
 .. image:: images/ValeraAlex.jpg
@@ -6,6 +6,28 @@ About Valera social robot
 
 Valera is a social robot aimed to be the cheapest one able to communicate with people and emotionally react to them.
 Valera can act as a friend or a teacher. 
+
+What are social robots
+--------------------------------
+
+Social robots can keep human knowledge and culture the same way as do books, photos, movies, 
+stories and so on. Even if there only one person left in the world holding some rare culture, 
+social robots can learn this culture and spread it. They cannot replace real persons, 
+but they can be made in big quantities, they never forget, never are too busy, too old or sick.
+
+Social robots can listen, understand feelings, react. They can teach and they can be tought.
+
+This is how we see social robots.
+
+What (or who) is Valera 
+--------------------------------
+
+Valera is extremely easy and cheap to build and customize.
+We provide all the documentation for both the robot hardware and software free of charge.
+
+Valera born to be a social robot, but currently he is not ready to function as one, he is a work in process
+and at the current stage we use Valera as an example to describe how to build cost effective robots with
+AI and modern software on board easily.
 
 Technologies and components used
 --------------------------------
