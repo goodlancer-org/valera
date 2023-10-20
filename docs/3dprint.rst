@@ -1,16 +1,20 @@
 Printing the parts
 =========================
 
-The robot body consists of 5 main blocks:
+The robot body consists of 4 main blocks:
 
 * 1 - Base
 * 2 - Chest
 * 3 - Head
-* 4 - UpperArm
-* 5 - Forearm
+* 4 - Arms
 
-Total weight of filament needed for all the parts is about 900 g .
-Using fast printing with the speed 50g/hour total printing time will be 18 hours .
+Total weight of filament needed for all the parts is about 680 g .
+Total printing time on a fast rate will be around 24 hours .
+
+Every 3D printer can be used, the only requirement is to have a table not smaller than 20cmx20cm, because it's the size of our biggest part.
+Also every tupe of filament can be used, we have used PLA.
+
+All time assumptions are made for printer Prusa Mk4 with 0.4mm nozzle with 20% unless otherwise said.
 
 Both STL files to print and source models for FreeCAD can be found 
 on `Github <https://github.com/goodlancer-org/valera>`_ in `STL` and `3d source` folder
@@ -19,58 +23,51 @@ respectively.
 1 - Base
 --------------------------------
 
-* 1_Base_Box - 460 g 
-* 1_Base_Stand - 55 g
-* 1_Base_Door - 20 g 
-* 1_Base_Switch - 5 g 
-* 2_Chest_joint_Cap -  5 g
-* 2_Chest_joint_Big - 5 g
-* 2_Chest_Motor_Cap - 10 g
+* 1_Base_Box - 270 g printing time 9 h
+* 1_Base_Stand - 55 g printing time 1 h
+* 1_Base_Door - 25 g printing time 2 h
+* 1_Base_Switch - 3 g printing time 8 mins
 
-Total weight of the Base parts is 560 g 
+Total weight of the Base parts is 353 g and total time is 12 hours.
 
 .. image:: images/3dprint/ValeraBase3d.png
 
 2 - Chest
 --------------------------------
 
-* 2_Chest_Main_2 -  60 g
-* 2_Chest_Main_1 - 25 g * 2
-* 2_Chest_joint_Big - 5 g
-* 2_Chest_joint_Small - 5 g * 2
-* 2_Chest_joint_Cap -  5 g * 3
-* 2_Chest_Motor_Cap - 10 g * 3
+* 2_Chest_Main - 77 g printing time 3 h 
+* 2_Chest_joint_Big - 8 g printing time 20 mins
+* 2_Chest_joint_Small - 7 g printing time 20 mins X2
+* 2_Chest_joint_Cap -  3 g printing time 8 mins X3
+* 2_Chest_Motor_Cap - 7 g printing time 17 mins X3
+* 2_Chest_Camera_Mount - 6 g printing time 18mins
 
-Total weight of the Chest parts is 170 g
+Total weight of the Chest parts is 129 g and total printing time is 5 hours 30 minutes
 
 .. image:: images/3dprint/ValeraChest3d.png
 
 3 - Head
 --------------------------------
 
-* 3_Head - 45 g 
-* 3_Head_Mount - 10 g 
+* 3_Head_Main - 65 g printing time 1 h 23 mins
+* 3_Head_Mount - 8 g printing time 14 mins
 
-Total weight of the Head parts is 55 g
+Total weight of the Head parts is 73 g and total printing time is 1 hours 40 minutes
 
 .. image:: images/3dprint/ValeraHead3d.png
 
-4 - UpperArm 
+4 - Arm 
 --------------------------------
 
-* 4_UpperArm_Rod - 5 g * 2
-* 4_UpperArm_Lever - 5 g * 2
-* 4_UpperArm_Bracket - 5 g * 2
-* 4_UpperArm_Main - 30 g * 2
-* 4_UpperArm_Cap - 5 g * 2
+* 4_Arms_Rod - 3 g printing time 10 mins X2
+* 4_Arms_Lever - 7 g printing time 12 mins X2
+* 4_Arms_Bracket - 8 g printing time 19 mins X2
+* 4_Arms_Main - 26 g printing time 52 mins X2
+* 4_Arms_Cap - 6 g printing time 15 mins X2
+* 4_Arms_Palm - 10 g printing time 24 mins X2
 
-Total weight of the UpperArm parts is 100 g
+Palm and Rod have to be printed with 100% filling.
 
-.. image:: images/3dprint/ValeraUpperArm3d.png
+Total weight of the two Arms parts is 123 g and total printing time is 4 hours 25 minutes
 
-5 - ForeArm 
---------------------------------
-
-* 5_Forearm_Main - 10 g * 2
-
-.. image:: images/3dprint/ValeraForearmMain3d.png
+.. image:: images/3dprint/ValeraArms3d.png
