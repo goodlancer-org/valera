@@ -8,6 +8,11 @@ The robot body consists of 4 main blocks:
 * 3 - Head
 * 4 - Arms
 
+.. raw:: html
+
+   <script src="https://embed.github.com/view/3d/goodlancer-org/valera/3d%20source/Assembly/Full_Robot.stl">
+   </script>
+
 Total weight of filament needed for all the parts is about 680 g .
 Total printing time on a fast rate will be around 24 hours .
 
