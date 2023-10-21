@@ -46,7 +46,7 @@ Total weight of the Base parts is 353 g and total time is 12 hours.
 
 .. image:: images/3dprint/ValeraBase3d.png
 
-.. image:: images/3dprint/ValeraBaseAssm3d.png
+.. image:: images/3dprint/ValeraBaseAssm3d.PNG
 
 2 - Chest
 --------------------------------
@@ -62,7 +62,7 @@ Total weight of the Chest parts is 129 g and total printing time is 5 hours 30 m
 
 .. image:: images/3dprint/ValeraChest3d.png
 
-.. image:: images/3dprint/ValeraChestAssm3d.png
+.. image:: images/3dprint/ValeraChestAssm3d.PNG
 
 3 - Head
 --------------------------------
@@ -74,7 +74,7 @@ Total weight of the Head parts is 73 g and total printing time is 1 hours 40 min
 
 .. image:: images/3dprint/ValeraHead3d.png
 
-.. image:: images/3dprint/ValeraHeadAssm3d.png
+.. image:: images/3dprint/ValeraHeadAssm3d.PNG
 
 4 - Arm 
 --------------------------------
@@ -95,4 +95,4 @@ Total weight of the two Arms parts is 123 g and total printing time is 4 hours 2
 
 .. image:: images/3dprint/ValeraArms3d.png
 
-.. image:: images/3dprint/ValeraArmsAssm3d.png
+.. image:: images/3dprint/ValeraArmsAssm3d.PNG
