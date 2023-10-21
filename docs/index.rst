@@ -7,7 +7,7 @@ to be able to communicate like people do and to share.
 
 The second goal was to make the robot cheap, affordable and easy to build, even by kids and at home.
 
-.. image:: images/Valera.jpg
+.. image:: images/HelloValera&Alex.jpg
   :width: 400
 
 
