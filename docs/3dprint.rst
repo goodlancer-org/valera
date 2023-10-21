@@ -65,9 +65,12 @@ Total weight of the Head parts is 73 g and total printing time is 1 hours 40 min
 --------------------------------
 
 * 4_Arms_Rod - 3 g printing time 10 mins X2
-* 4_Arms_Lever - 7 g printing time 12 mins X2
-* 4_Arms_Bracket - 8 g printing time 19 mins X2
-* 4_Arms_Main - 26 g printing time 52 mins X2
+* 4_Arms_Lever_R - 7 g printing time 12 mins
+* 4_Arms_Lever_L - 7 g printing time 12 mins
+* 4_Arms_Bracket_R - 8 g printing time 19 mins
+* 4_Arms_Bracket_L - 8 g printing time 19 mins
+* 4_Arms_Main_R - 26 g printing time 52 mins
+* 4_Arms_Main_L - 26 g printing time 52 mins
 * 4_Arms_Cap - 6 g printing time 15 mins X2
 * 4_Arms_Palm - 10 g printing time 24 mins X2
 
