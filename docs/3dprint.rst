@@ -31,15 +31,14 @@ The robot body consists of 4 main blocks:
 .. raw:: html
 
     <div class="sketchfab-embed-wrapper"> 
-    <iframe title="Social robot Valera (assembly)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/b62bbd69dae34dabb491808437f7caf9/embed"> 
-    </iframe> 
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
+    <iframe title="Social robot Valera (assembly)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/b62bbd69dae34dabb491808437f7caf9/embed?autostart=1"> 
+    </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
     <a href="https://sketchfab.com/3d-models/social-robot-valera-assembly-b62bbd69dae34dabb491808437f7caf9?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 
     Social robot Valera (assembly) </a> by 
     <a href="https://sketchfab.com/goodlancer?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 
     GoodLancer </a> on 
-    <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab
-    </a></p></div>
+    <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
+    Sketchfab</a></p></div>
 
 Total weight of filament needed for all the parts is about 680 g .
 Total printing time on a fast rate will be around 24 hours .
