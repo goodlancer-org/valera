@@ -24,12 +24,6 @@ The robot body consists of 4 main blocks:
 
 .. raw:: html
 
-   <script src="https://embed.github.com/view/3d/goodlancer-org/valera/main/3d%20source/Assembly/Full_Robot.stl">
-   </script>
-
-
-.. raw:: html
-
     <div class="sketchfab-embed-wrapper"> 
     <iframe title="Social robot Valera (assembly)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/b62bbd69dae34dabb491808437f7caf9/embed?autostart=1"> 
     </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
