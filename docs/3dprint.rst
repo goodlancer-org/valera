@@ -1,6 +1,20 @@
 Printing the parts
 =========================
 
+Facilities
+--------------------
+
+Every 3D printer can be used, the only requirement is to have a table not smaller than 20cmx20cm, because it's the size of our biggest part.
+Also every type of filament can be used, we have used PLA.
+No special knowledge is need, if you know the very basics of 3d printing, you can print the project.
+
+.. image:: images/3dprint/printer.jpg
+
+All time assumptions are made for printer Prusa Mk4 with 0.4mm nozzle with 20% unless otherwise said.
+
+Parts
+---------------------
+
 The robot body consists of 4 main blocks:
 
 * 1 - Base
@@ -15,11 +29,6 @@ The robot body consists of 4 main blocks:
 
 Total weight of filament needed for all the parts is about 680 g .
 Total printing time on a fast rate will be around 24 hours .
-
-Every 3D printer can be used, the only requirement is to have a table not smaller than 20cmx20cm, because it's the size of our biggest part.
-Also every tupe of filament can be used, we have used PLA.
-
-All time assumptions are made for printer Prusa Mk4 with 0.4mm nozzle with 20% unless otherwise said.
 
 Both STL files to print and source models for FreeCAD can be found 
 on `Github <https://github.com/goodlancer-org/valera>`_ in `STL` and `3d source` folder
