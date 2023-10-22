@@ -30,9 +30,7 @@ The robot body consists of 4 main blocks:
     <a href="https://sketchfab.com/3d-models/social-robot-valera-assembly-b62bbd69dae34dabb491808437f7caf9?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 
     Social robot Valera (assembly) </a> by 
     <a href="https://sketchfab.com/goodlancer?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 
-    GoodLancer </a> on 
-    <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">
-    Sketchfab</a></p></div>
+    GoodLancer </a></p></div>
 
 Total weight of filament needed for all the parts is about 680 g .
 Total printing time on a fast rate will be around 24 hours .
@@ -53,7 +51,7 @@ Total weight of the Base parts is 353 g and total time is 12 hours.
 
 .. image:: images/3dprint/ValeraBase3d.png
 
-.. image:: images/3dprint/ValeraBaseAssm3d.PNG
+.. image:: images/3dprint/ValeraBaseAssm3d.png
 
 2 - Chest
 --------------------------------
