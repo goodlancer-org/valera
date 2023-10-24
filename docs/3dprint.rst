@@ -17,10 +17,12 @@ Parts
 
 The robot body consists of 4 main blocks:
 
-* 1 - Base
-* 2 - Chest
-* 3 - Head
-* 4 - Arms
+* 1 - Base (red)
+* 2 - Chest (green)
+* 3 - Head (blue)
+* 4 - Arms (yellow)
+
+.. image:: images/3dprint/ValeraFull3d.PNG
 
 .. raw:: html
 
