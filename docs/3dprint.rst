@@ -48,7 +48,7 @@ respectively.
 1 - Base
 --------------------------------
 
-.. image:: images/3dprint/ValeraBaseAssm3d.png
+.. figure:: images/3dprint/ValeraBaseAssm3d.png
 
     Base assembly
 
@@ -66,6 +66,10 @@ Total weight of the Base parts is 353 g and total time is 12 hours.
 2 - Chest
 --------------------------------
 
+.. figure:: images/3dprint/ValeraChestAssm3d.PNG
+
+    Chest assembly
+
 * 2_Chest_Main - 77 g printing time 3 h 
 * 2_Chest_joint_Big - 8 g printing time 20 mins
 * 2_Chest_joint_Small - 7 g printing time 20 mins X2
@@ -75,24 +79,32 @@ Total weight of the Base parts is 353 g and total time is 12 hours.
 
 Total weight of the Chest parts is 129 g and total printing time is 5 hours 30 minutes
 
-.. image:: images/3dprint/ValeraChest3d.png
+.. figure:: images/3dprint/ValeraChest3d.png
 
-.. image:: images/3dprint/ValeraChestAssm3d.PNG
+    Chest parts
 
 3 - Head
 --------------------------------
+
+.. figure:: images/3dprint/ValeraHeadAssm3d.PNG
+
+    Head assembly
 
 * 3_Head_Main - 65 g printing time 1 h 23 mins
 * 3_Head_Mount - 8 g printing time 14 mins
 
 Total weight of the Head parts is 73 g and total printing time is 1 hours 40 minutes
 
-.. image:: images/3dprint/ValeraHead3d.png
+.. figure:: images/3dprint/ValeraHead3d.png
 
-.. image:: images/3dprint/ValeraHeadAssm3d.PNG
+    Head parts
 
 4 - Arm 
 --------------------------------
+
+.. figure:: images/3dprint/ValeraArmsAssm3d.PNG
+
+    Arm assembly
 
 * 4_Arms_Rod - 3 g printing time 10 mins X2
 * 4_Arms_Lever_R - 7 g printing time 12 mins
@@ -108,6 +120,7 @@ Palm and Rod have to be printed with 100% filling.
 
 Total weight of the two Arms parts is 123 g and total printing time is 4 hours 25 minutes
 
-.. image:: images/3dprint/ValeraArms3d.png
+.. figure:: images/3dprint/ValeraArms3d.png
 
-.. image:: images/3dprint/ValeraArmsAssm3d.PNG
+    Arm parts
+
