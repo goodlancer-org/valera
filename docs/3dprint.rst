@@ -15,14 +15,16 @@ All time assumptions are made for printer Prusa Mk4 with 0.4mm nozzle with 20% u
 Parts
 ---------------------
 
+.. figure:: images/3dprint/ValeraFull3d.PNG
+
+    The robot assembly 
+
 The robot body consists of 4 main blocks:
 
 * 1 - Base (red)
 * 2 - Chest (green)
 * 3 - Head (blue)
 * 4 - Arms (yellow)
-
-.. image:: images/3dprint/ValeraFull3d.PNG
 
 .. raw:: html
 
@@ -34,6 +36,8 @@ The robot body consists of 4 main blocks:
     <a href="https://sketchfab.com/goodlancer?utm_medium=embed&utm_campaign=share-popup&utm_content=b62bbd69dae34dabb491808437f7caf9" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 
     GoodLancer </a></p></div>
 
+|
+
 Total weight of filament needed for all the parts is about 680 g .
 Total printing time on a fast rate will be around 24 hours .
 
@@ -44,6 +48,10 @@ respectively.
 1 - Base
 --------------------------------
 
+.. image:: images/3dprint/ValeraBaseAssm3d.png
+
+    Base assembly
+
 * 1_Base_Box - 270 g printing time 9 h
 * 1_Base_Stand - 55 g printing time 1 h
 * 1_Base_Door - 25 g printing time 2 h
@@ -51,9 +59,9 @@ respectively.
 
 Total weight of the Base parts is 353 g and total time is 12 hours.
 
-.. image:: images/3dprint/ValeraBase3d.png
+.. figure:: images/3dprint/ValeraBase3d.png
 
-.. image:: images/3dprint/ValeraBaseAssm3d.png
+    Base parts
 
 2 - Chest
 --------------------------------
