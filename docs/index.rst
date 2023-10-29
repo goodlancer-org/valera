@@ -29,3 +29,4 @@ The second goal was to make the robot cheap, affordable and easy to build, even 
    odroid_wifi_connect
    docker_and_jupyter
    video_processing
+   Servos

@@ -74,7 +74,7 @@ Total weight of the Base parts is 353 g and total time is 12 hours.
 * 2_Chest_joint_Big - 8 g printing time 20 mins
 * 2_Chest_joint_Small - 7 g printing time 20 mins X2
 * 2_Chest_joint_Cap -  3 g printing time 8 mins X3
-* 2_Chest_Motor_Cap - 7 g printing time 17 mins X3
+* 2_Chest_Motor_Cap - 7 g printing time 17 mins X4
 * 2_Chest_Camera_Mount - 6 g printing time 18mins
 
 Total weight of the Chest parts is 129 g and total printing time is 5 hours 30 minutes
