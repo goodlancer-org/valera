@@ -5,8 +5,10 @@ Servo motors drive Valera and this is essential to set the up and test like it's
 
 .. raw:: html
 
-    <iframe width="600"
-    src="https://youtu.be/7wUNU5IKYxU?si=XTvaUiTJFN9p27Tc">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/7wUNU5IKYxU?si=-xs0XWdKWBbhhZVB" 
+    title="Valera robot YouTube video" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>
 
 Servo motor is a motor with integrated movement sensor, usually it's a simple 
