@@ -1,38 +1,46 @@
 Servo motors
 ==================
 
-- Servo motor is a motor with integrated movement sensor, usually it's a simple 
-potentiometer, which allow to control the angle of the motor's rotation. 
-Here's the scheme:
+|Servo motor is a motor with integrated movement sensor, usually it's a simple 
+|potentiometer, which allow to control the angle of the motor's rotation. 
+|Here's the scheme:
 
-.. image:: images/Servos/ServosScheme.png
+.. figure:: images/Servos/ServosScheme.png
 
-- There're two types of servo motors: angle-controlled and speed-controlled.
-Were we're going to discuss only first ones.
+    Servo Scheme
 
-- Angle servos are commonly called 180-degrees srvo, but usually their range is 
-not 180d. It may be 120, 270 or 360 degress, depends of the srvo you buy. In our 
-case it's around 120 degrees, so you always have to mind the position when placing a servo 
-into your creation so it would use it's all potential.
+|There're two types of servo motors: angle-controlled and speed-controlled.
+|Were we're going to discuss only first ones.
+|
+|Angle servos are commonly called 180-degrees srvo, but usually their range is 
+|not 180d. It may be 120, 270 or 360 degress, depends of the srvo you buy. In our 
+|case it's around 120 degrees, so you always have to mind the position when placing a servo 
+|into your creation so it would use it's all potential.
+|
+|Servos are operated by sending them serial pulses. The width of a pulse tell the motor 
+|to which angle to turn.
 
-- Servos are operated by sending them serial pulses. The width of a pulse tell the motor 
-to which angle to turn.
+.. figure:: images/Servos/ServosSignal.png
 
-.. image:: images/Servos/ServosSignal.png
+    Servo Signal
 
-- In order to test or manually move servos if needed we use servo tester.
+|In order to test or manually move servos if needed we use servo tester.
 
-.. image:: images/Servos/ServosTester.jpeg
+.. figure:: images/Servos/ServosTester.jpeg
 
-- You can plug several motors in it and control them at the same time. It is very helpful when 
-you check your motor's angle range or check the correctness of your assembly.
+    Servo Tester
 
-- When you need to controll your servos automatically you use a servo-controller. It's a small plate,
-looking like that:
+|You can plug several motors in it and control them at the same time. It is very helpful when 
+|you check your motor's angle range or check the correctness of your assembly.
+|
+|When you need to controll your servos automatically you use a servo-controller. It's a small plate,
+|looking like that:
 
-.. image:: images/Servos/ServosController.jpg
+.. figure:: images/Servos/ServosController.jpg
 
-- Usually these plates receive PWM signal, but it maybe different for some of them. Check your plate's 
-documentation. 
+    Servo Controller
 
-- I hope this essay will help you to navigate through tough way of a robot creator.
+|Usually these plates receive PWM signal, but it maybe different for some of them. Check your plate's 
+|documentation. 
+|
+|I hope this essay will help you to navigate through tough way of a robot creator.
