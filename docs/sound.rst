@@ -26,7 +26,7 @@ Press ``F6`` and select UACDemoV1.0 sound card.
 
 .. image:: images/sound/soundcard.jpg
 
-The initial sound level may be set to 20%. It can be increased to 100% using the button ↑
+The initial sound level may be set to 20%. It can be increased to 100% using the button ``↑``
 
 .. image:: images/sound/sound_up.jpg
 
