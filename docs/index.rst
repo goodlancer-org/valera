@@ -25,8 +25,9 @@ The second goal was to make the robot cheap, affordable and easy to build, even 
 
    supplies
    3dprint
-   Electric_Curcuit
+   electric_circuit
    odroid_wifi_connect
    docker_and_jupyter
    video_processing
-   Servos
+   servos
+   sound
