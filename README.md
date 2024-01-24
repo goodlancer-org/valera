@@ -2,6 +2,8 @@
 Open source hardware and software social robot.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/robogoodlancer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goodlancer/)
+[![ReadTheDocs](https://img.shields.io/badge/ReadTheDocs-E4405F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://valera.readthedocs.io/)
 
 <img src="docs/images/ValeraAlex.jpg" width="300">
 
