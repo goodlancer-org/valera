@@ -12,10 +12,23 @@ That's how it looks in reality
 
 Assebling Instruction
 ---------------------
+
 Before we start:
 ~~~~~~~~~~~~~~~~
+
 .. image:: images/Electric_Curcuit_Assm/Deassembled.jpg
 
+Please watch the assembling process video or read a full instruction below.
+
+|
+
+.. raw:: html
+
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/S_Jwx7noY1A?si=5r4jmpi5huq4Ma-H" 
+    title="Assembly guide for the electrical circuit of the Valera robot" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    </iframe>
 
 Step 1
 ~~~~~~~~~~
@@ -89,16 +102,6 @@ Step 11
 Connect the battery to the XT60 wire.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Batt.jpg
-
-.. raw:: html
-
-    <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/S_Jwx7noY1A?si=5r4jmpi5huq4Ma-H" 
-    title="Assembly guide for the electrical circuit of the Valera robot" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-    </iframe>
-
-|
 
 Finish
 ~~~~~~~~~~~~~
