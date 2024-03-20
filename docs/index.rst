@@ -26,6 +26,12 @@ The second goal was to make the robot cheap, affordable and easy to build, even 
    supplies
    3dprint
    electric_circuit
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 🖳 Software installation
+   :hidden:
+   
    odroid_wifi_connect
    docker_and_jupyter
    video_processing
