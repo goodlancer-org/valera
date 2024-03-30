@@ -17,15 +17,14 @@ List of components
 
 .. image:: images/BOM1.jpg
 
- Microcomputer
+1. Microcomputer
 
 * `ODROID-N2L with 4GByte RAM <https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`_ $69 
   to the microcomputer Odroid, you also need to buy
- * `WiFi Module 5BK <https://www.hardkernel.com/shop/wifi-module-5bk/>`_ $8.9
- * `12V/2A power supply Asia/Korea round plug <https://www.hardkernel.com/shop/12v-2a-power-supply-asia-korea-round-plug/>`_ $5.5
- * `16GB eMMC Module N2L Linux <https://www.hardkernel.com/shop/16gb-emmc-module-n2l-linux/>`_ $13
- * `DC Plug Cable Assembly 5.5mm L Type <https://www.hardkernel.com/shop/dc-plug-cable-assembly-5-5mm-l-type/>`_ $1.3
-
+ `WiFi Module 5BK <https://www.hardkernel.com/shop/wifi-module-5bk/>`_ $8.9
+ `12V/2A power supply Asia/Korea round plug <https://www.hardkernel.com/shop/12v-2a-power-supply-asia-korea-round-plug/>`_ $5.5
+ `16GB eMMC Module N2L Linux <https://www.hardkernel.com/shop/16gb-emmc-module-n2l-linux/>`_ $13
+ `DC Plug Cable Assembly 5.5mm L Type <https://www.hardkernel.com/shop/dc-plug-cable-assembly-5-5mm-l-type/>`_ $1.3
 * `Orange PI 3B 8Gb http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-3B/>`_$80
 #. `Camera Module 3.6mm with Microphone NEO Coolcam 30fps HD 4MP 2560x1440 USB <https://a.aliexpress.com/_EGyLnnt>`_ $20
 #. `Adafruit PCA9685 Servo controller <https://www.aliexpress.com/item/32466332558.html>`_ $4
