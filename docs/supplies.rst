@@ -19,7 +19,7 @@ List of components
 
 |
 
-#. Microcomputer
+#. Microcomputer - select one version
     * Version 0.1 - with Odroid-N2L, 4Gb RAM, 32Gb eMMC
         #. `ODROID-N2L with 4GByte RAM <https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`_ $69 
         #. `WiFi Module 5BK <https://www.hardkernel.com/shop/wifi-module-5bk/>`_ $8.9
@@ -27,7 +27,7 @@ List of components
         #. `16GB eMMC Module N2L Linux <https://www.hardkernel.com/shop/16gb-emmc-module-n2l-linux/>`_ $13
         #. `DC Plug Cable Assembly 5.5mm L Type <https://www.hardkernel.com/shop/dc-plug-cable-assembly-5-5mm-l-type/>`_ $1.3
     * Version 0.2 - with Orange PI 3B, 8Gb RAM, 256Gb eMMC
-        #. `Orange PI 3B 8Gb with eMMC http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-3B/>`_$80
+        #. `Orange PI 3B 8Gb with eMMC <http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-3B/>`_$80
 #. `Camera Module 3.6mm with Microphone NEO Coolcam 30fps HD 4MP 2560x1440 USB <https://a.aliexpress.com/_EGyLnnt>`_ $20
 #. `Adafruit PCA9685 Servo controller <https://www.aliexpress.com/item/32466332558.html>`_ $4
 #. `screws m2,m3 , nuts <https://www.aliexpress.com/item/32801531985.html>`_ $10
