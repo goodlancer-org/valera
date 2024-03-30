@@ -17,17 +17,20 @@ List of components
 
 .. image:: images/BOM1.jpg
 
-#. `ODROID-N2L with 4GByte RAM <https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`_ $69
-#. `WiFi Module 5BK <https://www.hardkernel.com/shop/wifi-module-5bk/>`_ $8.9
-#. `12V/2A power supply Asia/Korea round plug <https://www.hardkernel.com/shop/12v-2a-power-supply-asia-korea-round-plug/>`_ $5.5
-#. `16GB eMMC Module N2L Linux <https://www.hardkernel.com/shop/16gb-emmc-module-n2l-linux/>`_ $13
-#. `DC Plug Cable Assembly 5.5mm L Type <https://www.hardkernel.com/shop/dc-plug-cable-assembly-5-5mm-l-type/>`_ $1.3
+#. Microcomputer
+* 8`ODROID-N2L with 4GByte RAM <https://www.hardkernel.com/shop/odroid-n2l-with-4gbyte-ram/>`_ $69 
+  to the microcomputer Odroid, you also need to buy
+ **`WiFi Module 5BK <https://www.hardkernel.com/shop/wifi-module-5bk/>`_ $8.9
+ **`12V/2A power supply Asia/Korea round plug <https://www.hardkernel.com/shop/12v-2a-power-supply-asia-korea-round-plug/>`_ $5.5
+ **`16GB eMMC Module N2L Linux <https://www.hardkernel.com/shop/16gb-emmc-module-n2l-linux/>`_ $13
+ **`DC Plug Cable Assembly 5.5mm L Type <https://www.hardkernel.com/shop/dc-plug-cable-assembly-5-5mm-l-type/>`_ $1.3
+* or `Orange PI 3B 8Gb http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-3B/>`_$80
 #. `Camera Module 3.6mm with Microphone NEO Coolcam 30fps HD 4MP 2560x1440 USB <https://a.aliexpress.com/_EGyLnnt>`_ $20
 #. `Adafruit PCA9685 Servo controller <https://www.aliexpress.com/item/32466332558.html>`_ $4
 #. `screws m2,m3 , nuts <https://www.aliexpress.com/item/32801531985.html>`_ $10
 #. `MG996R Servo 6 pieces <https://www.aliexpress.com/item/4000417528570.html>`_ $45
 #. `PLA (1kg) base and details <https://a.aliexpress.com/_mrTfJzM>`_ $50
-#. `Servo tester <https://a.aliexpress.com/_mLtn8Ea>`_ $7
+#. `Servo tester <https://a.aliexpress.com/_mLtn8Ea>`_ $7 used for motor testing
 #. `LiPo battery Gens ACE 3300mAh 3S XT60 <https://www.aliexpress.com/item/1005003720800196.html>`_ $37.9
 #. `Power wires XT60 female <https://www.aliexpress.com/item/1005005297368178.html>`_ $6
 #. `20 AWG 2pins wire <https://www.aliexpress.com/item/1005001876813940.html>`_ $3.7
@@ -40,12 +43,12 @@ List of components
 #. `DC power converter 12V to 5V 3A for display <https://www.aliexpress.com/item/33011470040.html>`_ $3
 #. `Micro USB Typec Cable L-shape 1м <https://www.aliexpress.com/item/1005003132076690.html>`_ $2
 #. `Micro USB Female 2P Charger Wire Connector <https://www.aliexpress.com/item/1005005904505797.html>`_ $2
-#. `Heat-shrink tubing kit <https://a.aliexpress.com/_EvesYej>`_ $12
-#. `S12311-1677319918 Rocker Switch With Light 4 Screw Black/Red <https://www.aliexpress.com/item/1005003597120974.html>`_ $1
+#. `Micro USB Type c Cable 2 pin for Orange Pi <https://a.aliexpress.com/_oEXXAG4>`_ $7.7
+#. `Rocker Switch With Light 4 Screw  <https://www.aliexpress.com/item/1005003597120974.html>`_ $1
 #. `Crimp Spade Terminal connector pack <https://www.aliexpress.com/item/1005003611683326.html>`_ $10.6
-#. `Jumper wire dupont cable for DIY kit. female to female <https://www.aliexpress.com/item/4000203371860.html>`_ $0.5
+#. `Jumper wire dupont cable for DIY kit female to female and male to male (red and black) <https://www.aliexpress.com/item/4000203371860.html>`_ $0.5
 #. `HDMI L-shaped wires A1-A2 50cm <https://www.aliexpress.com/item/1005002200767476.html>`_ $5
-#. `Screw terminal 12-pole 10A <https://aliexpress.com/item/1005002760392481>`_ $1
+#. `Screw terminal 12-pole 10A <https://www.aliexpress.com/item/1005002760392481.html>`_ $1
 
-TOTAL PRICE ESTIMATION : $375
+TOTAL PRICE ESTIMATION : $400
 ** Prices are approximate and may vary, they do not include shipping costs and customs duties.
