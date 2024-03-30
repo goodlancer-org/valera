@@ -7,6 +7,15 @@ About Valera and social robots
 Valera is a social robot aimed to be the cheapest one able to communicate with people and emotionally react to them.
 Valera can act as a friend or a teacher. 
 
+.. note::
+  The Valera 0.2 release offers significant improvements over its predecessor. 
+  With 8GB of RAM (compared to 4GB in version 0.1) and 256GB of permanent storage 
+  (up from 16GB or 32GB), it provides enhanced performance and capacity. 
+  Additionally, Valera 0.2 introduces new software features, including AI models, 
+  ROS2, and devcontainer integration. While we’re in the process of updating the documentation, 
+  please note that most of the existing documentation for version 0.1 can still be applied 
+  to the current version, although it may not cover all the new possibilities.
+
 What are social robots
 --------------------------------
 
