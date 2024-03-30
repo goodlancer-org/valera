@@ -5,7 +5,7 @@ Components for the robot are widely used and can be bought in different places.
 We don't recommend any suppliers mentioned via links below - please select any shops/suppliers you like,
 the links are provided only for reference.
 
-* Single-board computer like Raspberry PI or Odroid as a braind with AI, camera and sound sensors
+* Single-board computer like Raspberry PI, Odroid or Orange PI as a braind with AI, camera and sound sensors
 * 3d-printing with regular PLA
 * Cost-effective servo motors and electronics
 
