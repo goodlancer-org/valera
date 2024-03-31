@@ -2,8 +2,15 @@
 Electric Curcuit
 ==================
 On picture below you may see a block scheme depicting how Valera's electric curcuit is composed.
+Please note that different versions of the robot uses different microcomputers.
+Valera v0.1 utilises microcomputer ODROID-N2L whereas Valera v0.2 utilises Orange PI 3B.
+Some images on this page are not updated to the new version of the robot, so if you
+see 'Odroid' on the picture - it means any microcomputer, Odroid or Orange PI, otherwise
+the difference should be stated in the text.
 
 .. image:: images/Electric_Curcuit_Assm/Block_Scheme.jpg
+
+|
 
 That's how it looks in reality
 
@@ -32,29 +39,34 @@ Please watch the assembling process video or read a full instruction below.
 
 Step 1
 ~~~~~~~~~~
-Connect low current voltage converter, two wires and jack cable to the button form one side and XT60 wire from another side. Mind the polarity.
+Connect low current voltage converter, two wires and jack cable
+to the button form one side and XT60 wire from another side. Mind the polarity.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Butt_VoltConvLowCur_D.jpg
+
+|
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Butt_VoltConvLowCur_A.jpg
 
 
 Step 2
 ~~~~~~~~~~
-Connect an input of the high current voltage converter to the two wireswe connected to the button before. Mind the polarity.
+Connect an input of the high current voltage converter to the two wires
+we connected to the button before. Mind the polarity.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_VoltConvHighCur.jpg
 
-
 Step 3
 ~~~~~~~~~~~
-Connect a Servo Controller through two wires to the output of the high current voltage converter. Mind the polarity.
+Connect a Servo Controller through two wires to the output of the high current voltage converter. 
+Mind the polarity.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_ServCont.jpg
 
 Step 4
 ~~~~~~~~~~~~
-Connect the USB wire to the output of the low current voltage converter, I used screw connectors for myself. Mind the polarity.
+Attach the USB wire to the low current voltage converter’s output using screw connectors. 
+Pay attention to the polarity.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_USBCab.jpg
 
@@ -72,28 +84,32 @@ Plug the jack cable in the Odroid.
 
 Step 7
 ~~~~~~~~~~~~
-Connect the screen to the Odroid through HDMI cable.
+Connect the screen to the microcomputer with HDMI cable.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_ScreenToOdroid.jpg
 
 Step 8
 ~~~~~~~~~~~
-Plug the speaker into the Odroid. You may use the USB port you like.
+Connect the speaker to the microcomputer using any USB port.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Speaker.jpg
 
 Step 9
 ~~~~~~~~~~~~
-Connect the Servo Controller to the Odroid. You need three wires: SCL, SDA and GND. 
-Pinout is written on the controller itself, and pinout for Odroid you can see here:
+Connect the servo controller to the microcomputer using the SCL, SDA, and GND wires. 
+The pinout is labeled on the controller. Both microcomputers has the same pinout
+, please see it below:
 
 .. image:: images/Electric_Curcuit_Assm/odroid_pinout.jpg
+
+|
 
 .. image:: images/Electric_Curcuit_Assm/Assm_OdroidToServCont.jpg
 
 Step 10
 ~~~~~~~~~~~~
-Connect all 6 Servos to the Servo Controller through servo extension wires. Make sure you plug data cables to the data pins and mind the polarity.
+Connect the 6 servos to the servo controller using extension wires. 
+Ensure that you connect the data cables to the correct data pins and pay attention to the polarity.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Servos.jpg
 
@@ -105,6 +121,8 @@ Connect the battery to the XT60 wire.
 
 Finish
 ~~~~~~~~~~~~~
-Congratulations!!! Now you can put the ssembled scheme into base box and procced to the next step in creating your own Valera!!!
+Congratulations!!! 
+Now you can put the assembled scheme into base box and procced to the next step 
+in building your own Valera!!!
 
 
