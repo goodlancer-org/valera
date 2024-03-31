@@ -78,7 +78,7 @@ Plug in the USB wire to the screen through USB to micro USB L-shaped cable.
 
 Step 6
 ~~~~~~~~~~~~
-Plug the jack cable in the Odroid.
+Plug the jack cable in the microcomputer.
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Odroid.jpg
 
@@ -110,6 +110,16 @@ Step 10
 ~~~~~~~~~~~~
 Connect the 6 servos to the servo controller using extension wires. 
 Ensure that you connect the data cables to the correct data pins and pay attention to the polarity.
+Follow a logical order when connecting the motors to the servo controller. 
+For instance, arrange them from top to bottom and left to right. 
+The order would be as follows: 
+
+#. Neck
+#. Left shoulder
+#. Right shoulder
+#. Left elbow
+#. Right elbow
+#. Robot base
 
 .. image:: images/Electric_Curcuit_Assm/Assm_Servos.jpg
 
