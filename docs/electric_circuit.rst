@@ -97,10 +97,18 @@ Connect the speaker to the microcomputer using any USB port.
 Step 9
 ~~~~~~~~~~~~
 Connect the servo controller to the microcomputer using the SCL, SDA, and GND wires. 
-The pinout is labeled on the controller. Both microcomputers has the same pinout
-, please see it below:
+The pinout is labeled on the controller. Both microcomputers has the same pinout, please see it below,
+but the pin colors differ for different microcomputers:
 
 .. image:: images/Electric_Circuit_Assm/odroid_pinout.jpg
+
+|
+
+.. image:: images/Electric_Circuit_Assm/Assm_orange_pi_3b.png
+
+|
+
+.. image:: images/Electric_Circuit_Assm/Assm_CIRCUIT_Valera.jpg
 
 |
 
