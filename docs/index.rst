@@ -32,6 +32,7 @@ The second goal was to make the robot cheap, affordable and easy to build, even 
    :caption: 🖳 Software installation
    :hidden:
    
+   flash_emmc_os
    odroid_wifi_connect
    docker_and_jupyter
    video_processing
