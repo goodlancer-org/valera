@@ -31,5 +31,11 @@ Step 2. Flash eMMC with Linux image
 Step 3. Enable i2c in Linux settings
 ~~~~~~~~~~~~~~~
 
-Use sudo ``orangepi-config`` to enable i2c on the computer how it's 
+Use ``sudo orangepi-config`` to enable i2c on the computer how it's 
 described on http://www.orangepi.org/orangepiwiki/index.php/Orange_Pi_3B#40pin_I2C_test_2
+
+Step 4. Test if i2c is working
+~~~~~~~~~~~~~~~
+
+Check if i2c-2 is switched on by typing ``ls /dev/i2c-*``, you should see i2c-2 device in the list.
+Type ``sudo i2cdetect -y 2`` to check if the device is accessible.
